@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -490,6 +491,20 @@ h6,
 }
 #header3-2d SPAN {
   font-family: 'Open Sans', sans-serif;
+}
+#header3-37 .mbr-section-title,
+#header3-37 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-37 H3 {
+  font-size: 36px;
+  font-family: 'Open Sans', sans-serif;
+}
+#features1-36 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-36 .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: center;
 }
 #header3-34 .mbr-section-title,
 #header3-34 .mbr-section-subtitle {
