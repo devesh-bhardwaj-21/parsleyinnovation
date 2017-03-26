@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
 
 
 
@@ -412,83 +414,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#msg-box8-1z .mbr-section-title,
-#msg-box8-1z p {
-  color: #fff;
-}
-#menu-1w .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-1w .navbar-caption {
-  color: #ffffff;
-}
-#menu-1w .navbar-toggler {
-  color: #ffffff;
-}
-#menu-1w .link,
-#menu-1w .dropdown-item {
-  color: #ffffff;
-}
-#menu-1w .link {
-  font-size: 0.9rem;
-}
-#menu-1w .dropdown-item,
-#menu-1w .nav-dropdown-sm .link {
-  font-size: 0.975rem;
-}
-#menu-1w .link:hover,
-#menu-1w .dropdown-item:hover,
-#menu-1w .link:focus,
-#menu-1w .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-1w .link[aria-expanded="true"],
-#menu-1w .dropdown-menu {
-  background: #171c2c;
-}
-#menu-1w .nav-dropdown-sm .link:focus,
-#menu-1w .nav-dropdown-sm .link:hover,
-#menu-1w .nav-dropdown-sm .dropdown-item:focus,
-#menu-1w .nav-dropdown-sm .dropdown-item:hover {
-  background: #232c44!important;
-}
-#menu-1w .navbar,
-#menu-1w .nav-dropdown-sm,
-#menu-1w .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1w .nav-dropdown-sm .dropdown-menu {
-  background: #28324e;
-}
-#menu-1w .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-1w .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-1w .bg-color.transparent.opened .link:hover,
-#menu-1w .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-1w .link[aria-expanded="true"],
-#menu-1w .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-1w.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-1w .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-1w .close-icon::before,
-#menu-1w .close-icon::after {
-  background-color: #ffffff;
-}
-#social-buttons4-24 .mbr-section-title,
-#social-buttons4-24 .btn-social {
-  color: #fff;
-}
-
-
 #ext_menu-2b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -566,5 +491,80 @@ h6,
 }
 #social-buttons4-2k .mbr-section-title,
 #social-buttons4-2k .btn-social {
+  color: #fff;
+}
+#msg-box8-1z .mbr-section-title,
+#msg-box8-1z p {
+  color: #fff;
+}
+#menu-1w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1w .navbar-caption {
+  color: #ffffff;
+}
+#menu-1w .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1w .link,
+#menu-1w .dropdown-item {
+  color: #ffffff;
+}
+#menu-1w .link {
+  font-size: 0.9rem;
+}
+#menu-1w .dropdown-item,
+#menu-1w .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-1w .link:hover,
+#menu-1w .dropdown-item:hover,
+#menu-1w .link:focus,
+#menu-1w .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-1w .link[aria-expanded="true"],
+#menu-1w .dropdown-menu {
+  background: #171c2c;
+}
+#menu-1w .nav-dropdown-sm .link:focus,
+#menu-1w .nav-dropdown-sm .link:hover,
+#menu-1w .nav-dropdown-sm .dropdown-item:focus,
+#menu-1w .nav-dropdown-sm .dropdown-item:hover {
+  background: #232c44!important;
+}
+#menu-1w .navbar,
+#menu-1w .nav-dropdown-sm,
+#menu-1w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1w .nav-dropdown-sm .dropdown-menu {
+  background: #28324e;
+}
+#menu-1w .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1w .bg-color.transparent.opened .link:hover,
+#menu-1w .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-1w .link[aria-expanded="true"],
+#menu-1w .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-1w.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1w .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1w .close-icon::before,
+#menu-1w .close-icon::after {
+  background-color: #ffffff;
+}
+#social-buttons4-24 .mbr-section-title,
+#social-buttons4-24 .btn-social {
   color: #fff;
 }
