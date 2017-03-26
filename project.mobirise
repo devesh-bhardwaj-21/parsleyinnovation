@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 112,
+    "uniqCompNum": 114,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": "",
@@ -236,6 +236,167 @@
             "bgColor": "#fff"
           },
           "text": "<h4><span style=\"font-weight: normal;\">Liferay Portal Services</span></h4><p><span style=\"font-weight: normal;\">Liferay Portal is today's leading open source enterprise portal platform. With a flexible and robust foundation, and over 60 built-in portlets that help you realize immediate value, Liferay Portal is a great choice for many organizations. Our Liferay portal development services include wide range of end-to-end Liferay development including Liferay customization, Liferay theme development, Liferay portlet development, Liferay upgrade and Liferay migration to clients around the globe.</span></p><p><span style=\"font-weight: normal;\"><br></span></p><h4><span style=\"font-weight: normal;\">What Parsley Innovations Offer</span></h4><ul><li><span style=\"font-weight: normal;\">Liferay consulting services.</span></li><li><span style=\"font-weight: normal;\">Liferay portlet/module development and customization using frameworks like Liferay MVC, Spring MVC, Vaadin, Struts-bridge etc.</span></li><li><span style=\"font-weight: normal;\">Content and Document Management solutions.</span></li><li><span style=\"font-weight: normal;\">Training of Liferay development and administration.</span></li><li><span style=\"font-weight: normal;\">Liferay migration and Liferay upgrade.</span></li><li><span style=\"font-weight: normal;\">Collaboration and Web Portal solutions with custom workflows.</span></li><li><span style=\"font-weight: normal;\">Liferay theme development with color schemes, page layouts and template development by converting from static HTML and/or PSD design files.</span></li><li><span style=\"font-weight: normal;\">Configuration of Liferay Portal with security mechanisms including LDAP or Active Directory, and/or Single Sign-On (SSO) solutions including CAS.</span></li><li><span style=\"font-weight: normal;\">Liferay customization of core functionalities and its out-of-the-box portlets to fit user needs.</span></li><li><span style=\"font-weight: normal;\">Search Engine Optimization(SEO) of Liferay portal.</span></li><li><span style=\"font-weight: normal;\">Performance tuning of Liferay portal using Caching, JVM tuning, etc.</span></li><li><span style=\"font-weight: normal;\">Proof-of-Concept(POC) for Liferay portals.</span></li><li><span style=\"font-weight: normal;\">Implementation of Liferay clustering to configure Liferay for clustered environment.</span></li><li><span style=\"font-weight: normal;\">Implementation of SOAP and restful JSON web services for Liferay Portal.</span></li><li><span style=\"font-weight: normal;\">We offer various kind of testing for Liferay Portal like unit testing, integration testing and sele nium testing.</span></li><li><span style=\"font-weight: normal;\">We also provide performance testing and performance improvement solutions for Liferay portal.</span></li><li><span style=\"font-weight: normal;\">Liferay Portlet/Module development on Liferay platform using JSR 168 and 286 standards.</span></li></ul><p><span style=\"font-weight: normal;\"><br></span></p><p><span style=\"font-weight: normal;\"><br></span></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-34",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Jobs At Parsley</span>",
+          "meta": ""
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#28324e",
+              "border-color": "#28324e"
+            },
+            "H4": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-35",
+          "_params": {
+            "iconsBgColor": "#28324e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title1": "We Expertise In",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Java/J2EE And Liferay Technology <br>And All<br>The Services Based On It.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title2": "We Also Work For",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Cloud Database.</span><br>SEO Optimization.<br>Internet Of Things.<br>Mobile.<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "bootstrap",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "title3": "Benefits",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Quality Assurance.<br>Innovative And Cost Effective Solutions.<br>Customer Satisfaction.<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
