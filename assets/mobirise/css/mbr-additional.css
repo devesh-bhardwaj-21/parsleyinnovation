@@ -542,6 +542,9 @@ h6,
   font-family: 'Open Sans', sans-serif;
   text-align: center;
 }
+#msg-box5-38 P {
+  text-align: left;
+}
 #menu-1w .hide-buttons .nav-btn {
   display: none !important;
 }

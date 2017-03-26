@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Overview.html",
+    "currentPage": "ParsleyInnovationsInc.html",
     "name": "ParsleyInnovations",
     "theme": {
       "name": "mobirise3",
@@ -222,7 +222,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Parsley innovation inc., Liferay development company based in USA, offers offshore and onsite Liferay development services with innovative and cost-effective solutions based on Liferay portal platform including versions Liferay DXP/7, 6.2, 6.1 and later.</blockquote>"
+          "text": "<blockquote>Parsley innovation inc., IT Services company based in USA, offers Liferay development services with innovative and cost-effective solutions based on Liferay portal platform including versions Liferay DXP/7, 6.2, 6.1 and later.</blockquote>"
         },
         {
           "_tags": [
@@ -667,6 +667,9 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-38",
@@ -710,7 +713,7 @@
             }
           },
           "title": "About Us",
-          "text": "Parsley Innovations Inc., Life ray Development Company based in the USA, offers offshore and onsite Life ray development services with innovative and cost-effective solutions based on Life ray portal platform including versions Life ray DXP/7, 6.2, 6.1 and later.<br><br>Parsley Innovations is one of the leading service based IT company. Parsley Innovations was born in the year 2017, headquarters of which is situated in Michigan, currently we are operating from the United States and we are planning to expand our territories soon. Parsley Innovations has achieved a great reputation in the market in no time by satisfying their customer requirements in the most efficient manner. Parsley Innovations encompasses a team of highly skilled people from around the world each having their own areas of expertise.<br>Parsley Innovations is purely a core IT Company which offers employment for Information Technology and all the services related to computer science. We are highly expertise in Life ray development services and we also offer Java/J2EE, SAP and all the tech services.<br>",
+          "text": "Parsley Innovations Inc. is an IT Service Company based in USA, offers Liferay development services with innovative and cost-effective solutions based on Liferay portal platform including versions Liferay DXP/7, 6.2, 6.1 and later.<br><br>Parsley Innovations is one of the leading service based IT company. Parsley Innovations was born in the year 2017, headquarters of which is situated in Michigan, currently we are operating from the United States and we are planning to expand our territories soon. Parsley Innovations has achieved a great reputation in the market in no time by satisfying their customer requirements in the most efficient manner. Parsley Innovations encompasses a team of highly skilled people from around the world each having their own areas of expertise.<br>Parsley Innovations is purely a core IT Company which offers employment for Information Technology and all the services related to computer science. We are highly expertise in Liferay development services and we also offer Java/J2EE, SAP and all the tech services.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
