@@ -129,7 +129,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/img-20170327-wa0001-226x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "ParsleyInnovationsInc.html",
@@ -793,7 +793,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/img-20170327-wa0001-226x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "ParsleyInnovationsInc.html",
