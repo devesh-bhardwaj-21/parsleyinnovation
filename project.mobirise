@@ -478,9 +478,10 @@
               "name": "bootstrap",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "ParsleyInnovationsInc.html#features7-35",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title3": "Benefits",
