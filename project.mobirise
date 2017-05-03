@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ParsleyInnovationsInc.html",
+    "currentPage": "Overview.html",
     "name": "ParsleyInnovations",
     "theme": {
       "name": "mobirise3",
@@ -888,7 +888,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/parsley-innovations\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     }
