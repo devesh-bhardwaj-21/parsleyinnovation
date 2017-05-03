@@ -462,9 +462,10 @@
               "name": "briefcase",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "ParsleyInnovationsInc.html#features7-35",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title2": "We Also Work For",
