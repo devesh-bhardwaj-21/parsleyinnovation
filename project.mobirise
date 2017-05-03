@@ -442,13 +442,15 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "phone",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "ParsleyInnovationsInc.html#features7-35",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title1": "We Expertise In",
