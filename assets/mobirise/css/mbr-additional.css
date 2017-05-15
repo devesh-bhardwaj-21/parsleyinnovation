@@ -11,6 +11,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -491,6 +493,13 @@ h6,
   text-align: center;
 }
 #header3-2d SPAN {
+  font-family: 'Open Sans', sans-serif;
+}
+#content1-3a H3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+}
+#content1-33 H4 {
   font-family: 'Open Sans', sans-serif;
 }
 #header3-37 .mbr-section-title,

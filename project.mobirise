@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Overview.html",
+    "currentPage": "ParsleyInnovationsInc.html",
     "name": "ParsleyInnovations",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 117,
+    "uniqCompNum": 123,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": "",
@@ -147,7 +147,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\">&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"About Us.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT PARSLEY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Overview.html\" target=\"_blank\">Overview</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ParsleyInnovationsInc.html#features1-36\">BUSINESS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ParsleyInnovationsInc.html#features7-35\">JOBS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"ParsleyInnovationsInc.html#contacts4-1q\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\">&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ParsleyInnovationsInc.html#content1-3a\" aria-expanded=\"true\">ABOUT PARSLEY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ParsleyInnovationsInc.html#features1-36\">BUSINESS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ParsleyInnovationsInc.html#features7-35\">JOBS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"ParsleyInnovationsInc.html#contacts4-1q\">CONTACT US</a></li>"
         },
         {
           "_styles": {
@@ -229,13 +229,39 @@
             "Theme"
           ],
           "_name": "content1",
+          "_anchor": "content1-3a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h3><span style=\"font-weight: normal;\">About Us</span></h3><p>Parsley Innovations Inc. is an IT Service Company based in USA, offers Liferay development services with innovative and cost-effective solutions based on Liferay portal platform including versions Liferay DXP/7, 6.2, 6.1 and later.</p><div><br></div><div>Parsley Innovations is one of the leading service based IT company. Parsley Innovations was born in the year 2017, headquarters of which is situated in Michigan, currently we are operating from the United States and we are planning to expand our territories soon. Parsley Innovations has achieved a great reputation in the market in no time by satisfying their customer requirements in the most efficient manner. Parsley Innovations encompasses a team of highly skilled people from around the world each having their own areas of expertise.</div><div><br></div><div>Parsley Innovations is purely a core IT Company which offers employment for Information Technology and all the services related to computer science. We are highly expertise in Liferay development services and we also offer Java/J2EE, SAP and all the tech services.</div><p></p>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
           "_anchor": "content1-33",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h4><span style=\"font-weight: normal;\">Liferay Portal Services</span></h4><p><span style=\"font-weight: normal;\">Liferay Portal is today's leading open source enterprise portal platform. With a flexible and robust foundation, and over 60 built-in portlets that help you realize immediate value, Liferay Portal is a great choice for many organizations. Our Liferay portal development services include wide range of end-to-end Liferay development including Liferay customization, Liferay theme development, Liferay portlet development, Liferay upgrade and Liferay migration to clients around the globe.</span></p><p><span style=\"font-weight: normal;\"><br></span></p><h4><span style=\"font-weight: normal;\">What Parsley Innovations Offer</span></h4><ul><li><span style=\"font-weight: normal;\">Liferay consulting services.</span></li><li><span style=\"font-weight: normal;\">Liferay portlet/module development and customization using frameworks like Liferay MVC, Spring MVC, Vaadin, Struts-bridge etc.</span></li><li><span style=\"font-weight: normal;\">Content and Document Management solutions.</span></li><li><span style=\"font-weight: normal;\">Training of Liferay development and administration.</span></li><li><span style=\"font-weight: normal;\">Liferay migration and Liferay upgrade.</span></li><li><span style=\"font-weight: normal;\">Collaboration and Web Portal solutions with custom workflows.</span></li><li><span style=\"font-weight: normal;\">Liferay theme development with color schemes, page layouts and template development by converting from static HTML and/or PSD design files.</span></li><li><span style=\"font-weight: normal;\">Configuration of Liferay Portal with security mechanisms including LDAP or Active Directory, and/or Single Sign-On (SSO) solutions including CAS.</span></li><li><span style=\"font-weight: normal;\">Liferay customization of core functionalities and its out-of-the-box portlets to fit user needs.</span></li><li><span style=\"font-weight: normal;\">Search Engine Optimization(SEO) of Liferay portal.</span></li><li><span style=\"font-weight: normal;\">Performance tuning of Liferay portal using Caching, JVM tuning, etc.</span></li><li><span style=\"font-weight: normal;\">Proof-of-Concept(POC) for Liferay portals.</span></li><li><span style=\"font-weight: normal;\">Implementation of Liferay clustering to configure Liferay for clustered environment.</span></li><li><span style=\"font-weight: normal;\">Implementation of SOAP and restful JSON web services for Liferay Portal.</span></li><li><span style=\"font-weight: normal;\">We offer various kind of testing for Liferay Portal like unit testing, integration testing and sele nium testing.</span></li><li><span style=\"font-weight: normal;\">We also provide performance testing and performance improvement solutions for Liferay portal.</span></li><li><span style=\"font-weight: normal;\">Liferay Portlet/Module development on Liferay platform using JSR 168 and 286 standards.</span></li></ul><p><span style=\"font-weight: normal;\"><br></span></p><p><span style=\"font-weight: normal;\"><br></span></p>"
+          "text": "<h4><span style=\"font-weight: normal;\">Liferay Portal Services</span></h4><p><span style=\"font-weight: normal;\">Liferay Portal is today's leading open source enterprise portal platform. With a flexible and robust foundation, and over 60 built-in portlets that help you realize immediate value, Liferay Portal is a great choice for many organizations. Our Liferay portal development services include wide range of end-to-end Liferay development including Liferay customization, Liferay theme development, Liferay portlet development, Liferay upgrade and Liferay migration to clients around the globe.</span></p><p><span style=\"font-weight: normal;\"><br></span></p><p><span style=\"font-weight: normal;\"><br></span></p><h4><span style=\"font-weight: normal;\">What Parsley Innovations Offer</span></h4><ul><li><span style=\"font-weight: normal;\">Liferay consulting services.</span></li><li><span style=\"font-weight: normal;\">Liferay portlet/module development and customization using frameworks like Liferay MVC, Spring MVC, Vaadin, Struts-bridge etc.</span></li><li><span style=\"font-weight: normal;\">Content and Document Management solutions.</span></li><li><span style=\"font-weight: normal;\">Training of Liferay development and administration.</span></li><li><span style=\"font-weight: normal;\">Liferay migration and Liferay upgrade.</span></li><li><span style=\"font-weight: normal;\">Collaboration and Web Portal solutions with custom workflows.</span></li><li><span style=\"font-weight: normal;\">Liferay theme development with color schemes, page layouts and template development by converting from static HTML and/or PSD design files.</span></li><li><span style=\"font-weight: normal;\">Configuration of Liferay Portal with security mechanisms including LDAP or Active Directory, and/or Single Sign-On (SSO) solutions including CAS.</span></li><li><span style=\"font-weight: normal;\">Liferay customization of core functionalities and its out-of-the-box portlets to fit user needs.</span></li><li><span style=\"font-weight: normal;\">Search Engine Optimization(SEO) of Liferay portal.</span></li><li><span style=\"font-weight: normal;\">Performance tuning of Liferay portal using Caching, JVM tuning, etc.</span></li><li><span style=\"font-weight: normal;\">Proof-of-Concept(POC) for Liferay portals.</span></li><li><span style=\"font-weight: normal;\">Implementation of Liferay clustering to configure Liferay for clustered environment.</span></li><li><span style=\"font-weight: normal;\">Implementation of SOAP and restful JSON web services for Liferay Portal.</span></li><li><span style=\"font-weight: normal;\">We offer various kind of testing for Liferay Portal like unit testing, integration testing and sele nium testing.</span></li><li><span style=\"font-weight: normal;\">We also provide performance testing and performance improvement solutions for Liferay portal.</span></li><li><span style=\"font-weight: normal;\">Liferay Portlet/Module development on Liferay platform using JSR 168 and 286 standards.</span></li></ul><p><span style=\"font-weight: normal;\"><br></span></p><p><span style=\"font-weight: normal;\"><br></span></p>",
+          "_styles": {
+            "H4": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         },
         {
           "_styles": {
