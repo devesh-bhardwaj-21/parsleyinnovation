@@ -120,10 +120,10 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": false,
+            "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
